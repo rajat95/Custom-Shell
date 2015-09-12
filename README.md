@@ -4,7 +4,7 @@ Small Project to understand process management
 Instructions
 -----------------
 
-1.Running a new Command in foreground
+1. Running a new Command in foreground
 
 	i) Upon running the program you get "command<<"
 	ii)Just type the command and hit enter
